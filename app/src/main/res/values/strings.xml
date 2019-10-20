@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TrueCallerAppLogin</string>
+    <string name="partenerKey">//replace your app key</string>
+</resources>
